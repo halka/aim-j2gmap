@@ -1,5 +1,14 @@
 {
   "name": "notam2map",
   "version": "0.1.0",
-  "main": "main.js"
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:halka/aim-j2gmap.git"
+  },
+  "author": "halka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halka/aim-j2gmap/issues"
+  }
 }
